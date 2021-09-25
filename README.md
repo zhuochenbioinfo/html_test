@@ -1,4 +1,4 @@
-# html test: OPPO demo wedsite
+# html test: OPPO demo website
 
 Test the deployment of a static web page on github.
 
